@@ -1,7 +1,7 @@
 
 ***
 
-![BranchPhotoOfTheDay.jpeg(BranchPhotoOfTheDay.jpeg)
+![BranchPhotoOfTheDay.jpeg](BranchPhotoOfTheDay.jpeg)
 
 # Tree branch
 
