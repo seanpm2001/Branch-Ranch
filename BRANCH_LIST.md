@@ -7,15 +7,15 @@ Explore the different branches in this project.
 
 [Main](https://github.com/seanpm2001/Branch-Ranch/tree/main) - Just the main branch
 
-[Master](https://github.com/seanpm2001/Branch-Ranch/tree/master) - GitHub's least favorite branch
+[Master](https://github.com/seanpm2001/Branch-Ranch/tree/Master) - GitHub's least favorite branch
 
 [Scranton-Branch](https://github.com/seanpm2001/Branch-Ranch/tree/Scranton-branch) - How's my favorite branch doing?
 
 [Fractal-Tree-Branch](https://github.com/seanpm2001/Branch-Ranch/tree/Fractal-Tree-Branch) - Recursive branch
 
-[Olive branch A](https://github.com/seanpm2001/Branch-Ranch/tree/Olive-branch-B) - The Egyptian Olive branch
+[Olive branch A](https://github.com/seanpm2001/Branch-Ranch/tree/Olive-Branch-A) - The Egyptian Olive branch
 
-[Olive branch B](https://github.com/seanpm2001/Branch-Ranch/tree/Olive-branch-B) - The Greek Olive branch
+[Olive branch B](https://github.com/seanpm2001/Branch-Ranch/tree/Olive-Branch-B) - The Greek Olive branch
 
 [Tree-Branch](https://github.com/seanpm2001/Branch-Ranch/tree/Tree-Branch) - The main tree branch
 
@@ -25,9 +25,9 @@ Explore the different branches in this project.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Thursday, April 1st 2021 at 7:49 pm)`
+File version: `2 (Sunday, April 4th 2021 at 7:55 pm)`
 
-Line count (including blank lines and compiler line): `71`
+Line count (including blank lines and compiler line): `83`
 
 ***
 
@@ -49,13 +49,25 @@ Version 1 (Thursday, April 1st 2021 at 7:49 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Sunday, April 4th 2021 at 7:55 pm)
+
+> Changes:
+
+> * Fixed some links
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
 
 ***
 
